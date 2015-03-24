@@ -1,0 +1,18 @@
+form{
+	border: solid 3px gray;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+form>div.row{
+	margin-bottom: 5px;
+	margin-right: 0px;
+}
+body{
+	background-color: gray;
+}
+#content{
+	background-color: white;
+}
